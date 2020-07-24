@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyd23333.github.io/MyGrideaBlog</id>
     <title>MyGrideaBlog OvO</title>
-    <updated>2020-07-24T18:28:54.278Z</updated>
+    <updated>2020-07-24T19:08:27.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cyd23333.github.io/MyGrideaBlog"/>
     <link rel="self" href="https://cyd23333.github.io/MyGrideaBlog/atom.xml"/>
@@ -12,6 +12,13 @@ GitHub上的我 :&lt;a href=&quot;https://github.com/cyd23333&quot;&gt;cyd23333&
     <logo>https://cyd23333.github.io/MyGrideaBlog/images/avatar.png</logo>
     <icon>https://cyd23333.github.io/MyGrideaBlog/favicon.ico</icon>
     <rights>All rights reserved 2020, MyGrideaBlog OvO</rights>
+    <entry>
+        <title type="html"><![CDATA[对于电脑游戏]]></title>
+        <id>https://cyd23333.github.io/MyGrideaBlog/post/dui-yu-dian-nao-you-xi/</id>
+        <link href="https://cyd23333.github.io/MyGrideaBlog/post/dui-yu-dian-nao-you-xi/">
+        </link>
+        <updated>2020-07-24T18:42:30.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Test #1]]></title>
         <id>https://cyd23333.github.io/MyGrideaBlog/post/test-1/</id>
