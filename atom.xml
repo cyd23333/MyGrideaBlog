@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cyd23333.github.io/</id>
+    <id>https://cyd23333.github.io/MyGrideaBlog</id>
     <title>MyGrideaBlog OvO</title>
-    <updated>2020-07-25T04:25:45.095Z</updated>
+    <updated>2020-07-25T08:07:10.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cyd23333.github.io/"/>
-    <link rel="self" href="https://cyd23333.github.io/atom.xml"/>
+    <link rel="alternate" href="https://cyd23333.github.io/MyGrideaBlog"/>
+    <link rel="self" href="https://cyd23333.github.io/MyGrideaBlog/atom.xml"/>
     <subtitle>温故而知个锤子新
 &lt;br&gt;
 GitHub上的我 : &lt;a href=&quot;https://github.com/cyd23333&quot;&gt;cyd23333&lt;/a&gt;</subtitle>
-    <logo>https://cyd23333.github.io/images/avatar.png</logo>
-    <icon>https://cyd23333.github.io/favicon.ico</icon>
+    <logo>https://cyd23333.github.io/MyGrideaBlog/images/avatar.png</logo>
+    <icon>https://cyd23333.github.io/MyGrideaBlog/favicon.ico</icon>
     <rights>All rights reserved 2020, MyGrideaBlog OvO</rights>
     <entry>
         <title type="html"><![CDATA[对于电脑游戏]]></title>
-        <id>https://cyd23333.github.io/post/dui-yu-dian-nao-you-xi/</id>
-        <link href="https://cyd23333.github.io/post/dui-yu-dian-nao-you-xi/">
+        <id>https://cyd23333.github.io/MyGrideaBlog/post/dui-yu-dian-nao-you-xi/</id>
+        <link href="https://cyd23333.github.io/MyGrideaBlog/post/dui-yu-dian-nao-you-xi/">
         </link>
         <updated>2020-07-24T18:42:30.000Z</updated>
         <summary type="html"><![CDATA[<p>都知道，即使没有面对着近在眼前的压力，玩电脑游戏也并不是生活中的一项必选项。</p>
@@ -25,8 +25,8 @@ GitHub上的我 : &lt;a href=&quot;https://github.com/cyd23333&quot;&gt;cyd23333
     </entry>
     <entry>
         <title type="html"><![CDATA[Test #1]]></title>
-        <id>https://cyd23333.github.io/post/test-1/</id>
-        <link href="https://cyd23333.github.io/post/test-1/">
+        <id>https://cyd23333.github.io/MyGrideaBlog/post/test-1/</id>
+        <link href="https://cyd23333.github.io/MyGrideaBlog/post/test-1/">
         </link>
         <updated>2020-07-24T18:22:15.000Z</updated>
         <summary type="html"><![CDATA[<p>喵呜。这是一篇用来测试功能的文章。</p>
@@ -36,15 +36,15 @@ GitHub上的我 : &lt;a href=&quot;https://github.com/cyd23333&quot;&gt;cyd23333
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://cyd23333.github.io/post/about/</id>
-        <link href="https://cyd23333.github.io/post/about/">
+        <id>https://cyd23333.github.io/MyGrideaBlog/post/about/</id>
+        <link href="https://cyd23333.github.io/MyGrideaBlog/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cyd23333.github.io/post/hello-gridea/</id>
-        <link href="https://cyd23333.github.io/post/hello-gridea/">
+        <id>https://cyd23333.github.io/MyGrideaBlog/post/hello-gridea/</id>
+        <link href="https://cyd23333.github.io/MyGrideaBlog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
