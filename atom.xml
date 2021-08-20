@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/cyd23333/MyGrideaBlog</id>
+    <id>https://github.com/cyd23333/</id>
     <title>Ford&apos;s GrideaBlog OvO</title>
-    <updated>2021-08-20T17:01:44.391Z</updated>
+    <updated>2021-08-20T17:02:12.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/cyd23333/MyGrideaBlog"/>
-    <link rel="self" href="https://github.com/cyd23333/MyGrideaBlog/atom.xml"/>
+    <link rel="alternate" href="https://github.com/cyd23333/"/>
+    <link rel="self" href="https://github.com/cyd23333/atom.xml"/>
     <subtitle>温故而知个锤子新</subtitle>
-    <logo>https://github.com/cyd23333/MyGrideaBlog/images/avatar.png</logo>
-    <icon>https://github.com/cyd23333/MyGrideaBlog/favicon.ico</icon>
+    <logo>https://github.com/cyd23333/images/avatar.png</logo>
+    <icon>https://github.com/cyd23333/favicon.ico</icon>
     <rights>All rights reserved 2021, Ford&apos;s GrideaBlog OvO</rights>
     <entry>
         <title type="html"><![CDATA[什么都没有什么都没有什么都没有什么都没有]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/note20210820/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/note20210820/">
+        <id>https://github.com/cyd23333/post/note20210820/</id>
+        <link href="https://github.com/cyd23333/post/note20210820/">
         </link>
         <updated>2021-08-20T15:37:05.000Z</updated>
         <summary type="html"><![CDATA[<p>临时写的一篇文章，这应该算是memo吧</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[奇怪的线性表]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/DSAA_LL_1/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/DSAA_LL_1/">
+        <id>https://github.com/cyd23333/post/DSAA_LL_1/</id>
+        <link href="https://github.com/cyd23333/post/DSAA_LL_1/">
         </link>
         <updated>2021-04-21T09:13:50.000Z</updated>
         <summary type="html"><![CDATA[<p>这是一篇用C语言写就的稀疏多项式的链式存储小练习</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Step-0 in TensorFlow]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/tensorflow-1/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/tensorflow-1/">
+        <id>https://github.com/cyd23333/post/tensorflow-1/</id>
+        <link href="https://github.com/cyd23333/post/tensorflow-1/">
         </link>
         <updated>2021-04-02T00:37:48.000Z</updated>
         <summary type="html"><![CDATA[<p>本文理应是TensorFlow的第一篇笔记，URL=tensorflow-1</p>
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Writing]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/markdown-writing/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/markdown-writing/">
+        <id>https://github.com/cyd23333/post/markdown-writing/</id>
+        <link href="https://github.com/cyd23333/post/markdown-writing/">
         </link>
         <updated>2020-08-26T00:51:25.000Z</updated>
         <summary type="html"><![CDATA[<p>本篇提到Markdown语法。作工具书用。</p>
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[路径一览]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/lu-jing-yi-lan/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/lu-jing-yi-lan/">
+        <id>https://github.com/cyd23333/post/lu-jing-yi-lan/</id>
+        <link href="https://github.com/cyd23333/post/lu-jing-yi-lan/">
         </link>
         <updated>2020-08-25T23:42:30.000Z</updated>
         <summary type="html"><![CDATA[<p>摘要。所以，不要停下来啊。</p>
@@ -67,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Test #1]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/test-1/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/test-1/">
+        <id>https://github.com/cyd23333/post/test-1/</id>
+        <link href="https://github.com/cyd23333/post/test-1/">
         </link>
         <updated>2020-07-24T18:22:15.000Z</updated>
         <summary type="html"><![CDATA[<p>喵呜。这是一篇用来测试功能的文章。</p>
@@ -78,15 +78,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于一切]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/about/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/about/">
+        <id>https://github.com/cyd23333/post/about/</id>
+        <link href="https://github.com/cyd23333/post/about/">
         </link>
         <updated>2020-07-18T11:09:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/cyd23333/MyGrideaBlog/post/hello-gridea/</id>
-        <link href="https://github.com/cyd23333/MyGrideaBlog/post/hello-gridea/">
+        <id>https://github.com/cyd23333/post/hello-gridea/</id>
+        <link href="https://github.com/cyd23333/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
